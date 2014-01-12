@@ -1,5 +1,4 @@
 
-
 Pod::Spec.new do |s|
     
     s.name          = "NBUKit"
@@ -8,7 +7,7 @@ Pod::Spec.new do |s|
     s.homepage      = "http://cyberagent.github.io/iOS-NBUKit/"
     s.license       = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
     s.author        = { "CyberAgent Inc." => "", "Ernesto Rivera" => "rivera_ernesto@cyberagent.co.jp" }
-    s.source        = { :git => "https://github.com/CyberAgent/iOS-NBUKit.git", :tag => "#{s.version}" }
+    s.source        = { :git => "https://github.com/steve21124/iOS-NBUKit.git", :tag => "#{s.version}" }
     
     s.platform      = :ios, '5.0'
     s.requires_arc  = true
